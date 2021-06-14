@@ -1,0 +1,15 @@
+F:\Учёба\Itransition практика\Задание 3\rps\bin\Debug\netcoreapp3.1\rps.exe
+F:\Учёба\Itransition практика\Задание 3\rps\bin\Debug\netcoreapp3.1\rps.deps.json
+F:\Учёба\Itransition практика\Задание 3\rps\bin\Debug\netcoreapp3.1\rps.runtimeconfig.json
+F:\Учёба\Itransition практика\Задание 3\rps\bin\Debug\netcoreapp3.1\rps.runtimeconfig.dev.json
+F:\Учёба\Itransition практика\Задание 3\rps\bin\Debug\netcoreapp3.1\rps.dll
+F:\Учёба\Itransition практика\Задание 3\rps\bin\Debug\netcoreapp3.1\rps.pdb
+F:\Учёба\Itransition практика\Задание 3\rps\obj\Debug\netcoreapp3.1\rps.csprojAssemblyReference.cache
+F:\Учёба\Itransition практика\Задание 3\rps\obj\Debug\netcoreapp3.1\rps.AssemblyInfoInputs.cache
+F:\Учёба\Itransition практика\Задание 3\rps\obj\Debug\netcoreapp3.1\rps.AssemblyInfo.cs
+F:\Учёба\Itransition практика\Задание 3\rps\obj\Debug\netcoreapp3.1\rps.csproj.CoreCompileInputs.cache
+F:\Учёба\Itransition практика\Задание 3\rps\obj\Debug\netcoreapp3.1\rps.dll
+F:\Учёба\Itransition практика\Задание 3\rps\obj\Debug\netcoreapp3.1\rps.pdb
+F:\Учёба\Itransition практика\Задание 3\rps\obj\Debug\netcoreapp3.1\rps.genruntimeconfig.cache
+F:\Учёба\Itransition практика\Задание 3\rps\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\Учёба\Itransition практика\Задание 3\rps\obj\Debug\netcoreapp3.1\rps.csproj.CopyComplete

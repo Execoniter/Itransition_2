@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ic1DgsGkI4ij/Bt6ZEhiMjPfItpMQQ5PAHQkHmJuY3gzqSNm5UIju3sRlBC8NJBUeKth2lA4SCOKpNJIt9pS+g==",
+  "success": true,
+  "projectFilePath": "F:\\Учёба\\Itransition практика\\Задание 3\\rps\\rps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\portable.bouncycastle\\1.8.10\\portable.bouncycastle.1.8.10.nupkg.sha512"
+  ],
+  "logs": []
+}
